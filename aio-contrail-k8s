@@ -1,0 +1,5 @@
+
+[root@system028 ~]# cat /etc/redhat-release
+CentOS Linux release 7.6.1810 (Core)
+
+# yum install -y qemu libvirt libvirt-devel ruby-devel gcc qemu-kvm
